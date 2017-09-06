@@ -23,8 +23,10 @@
             "name": "Linux",
             "includePath": [
                 "/usr/include/c++/7",
+                "/usr/include/c++/7/x86_64-redhat-linux",
                 "/usr/local/include",
                 "/usr/include",
+                "/usr/lib64/clang/4.0.1/include",
                 "/usr/include/ffmpeg",
                 "${workspaceRoot}"
             ],
@@ -33,8 +35,10 @@
             "browse": {
                 "path": [
                     "/usr/include/c++/7",
+                    "/usr/include/c++/7/x86_64-redhat-linux",
                     "/usr/local/include",
                     "/usr/include",
+                    "/usr/lib64/clang/4.0.1/include",
                     "/usr/include/ffmpeg",
                     "${workspaceRoot}"
                 ],
